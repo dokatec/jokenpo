@@ -1,16 +1,53 @@
-# jokenpo
+<h1 align="center"> Flutter App Jokenpo </h1>
 
-A new Flutter project.
+<p align="center">
+Projeto desenvolvido no curso de flutter da udemy<br/>
 
-## Getting Started
+</p>
 
-This project is a starting point for a Flutter application.
+<p align="center">
+  <a href="#memo-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-licença">Licença</a>
+</p>
 
-A few resources to get you started if this is your first Flutter project:
+<p align="center">
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
+</p>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<br>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<p align="center">
+  <img alt="projeto DevLinks" src="images/capa-01.png" width="100%">
+</p>
+<br>
+
+## 🚀 Tecnologias
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- Flutter Framework
+- Dart Lang
+- Git e Github
+- Figma
+
+## 💻 Projeto
+
+Jogo criado em flutter com dart lang do tradicional jokenpo
+
+<!-- - [Acesse o projeto finalizado, online](https://maykbrito.github.io/devlinks) -->
+
+<!-- - [Assistir aulas](https://lp.rocketseat.com.br/devlinks/inscricao?utm_source=github&utm_medium=descricao&utm_campaign=capture-devlinks&utm_term=organic&utm_content=descricao-github-mayk-brito) -->
+
+## 🔖 Layout
+
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+
+## Licença
+
+Esse projeto está sob a licença MIT.
+
+---
+
+Feito por Jhonatan Pacheco com ♥ by JPDEV [Acesse meu portfolio de projetos!](https://www.jpdev.com.br)
